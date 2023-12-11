@@ -1,0 +1,50 @@
+
+.currentText {
+    font-size: 42px;
+    font-weight: 600;
+    margin: 0;
+    padding: 40px;
+    padding-left: 80px;
+    align-items: center;
+    display: flex;
+}
+
+p {
+    padding-left: 40px;
+    font-size: 54px;
+    font-weight: 800;
+}
+
+.themeIcon {
+    width: 60px;
+    height: 50px;
+    appearance: none;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    background-color: #8596e35e;
+    position: absolute;
+    top: 50px;
+    right: 70px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.themeIconDark {
+    width: 60px;
+    height: 50px;
+    appearance: none;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    background-color: #66669c5e;
+    position: absolute;
+    top: 50px;
+    right: 70px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
